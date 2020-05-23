@@ -1,0 +1,23 @@
+{
+  "name": "electron-imageshrink",
+  "version": "0.1.0",
+  "description": "Electron app to optimize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlr524/electron-imageshrink.git"
+  },
+  "author": "Rob Ranf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rlr524/electron-imageshrink/issues"
+  },
+  "homepage": "https://github.com/rlr524/electron-imageshrink#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
